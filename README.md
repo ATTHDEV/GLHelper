@@ -2,7 +2,7 @@
 This is library use for create graphic by opengl
 
 ---
-**requirement**
+**Requirement**
 
 * glfw 
 * glm
@@ -12,7 +12,7 @@ This is library use for create graphic by opengl
 ---
 
 ---
-**feature**
+**Feature**
 
 * create screen with 60 fps
 * very easy for create 2d graphics
